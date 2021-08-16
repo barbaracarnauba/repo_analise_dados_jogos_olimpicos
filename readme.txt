@@ -12,3 +12,5 @@ Este projeto apresenta uma análise dos dados sobre atletas nas olimpíadas de 1
 10.  Países com mais medalhas desde 1980?
 11.  Corrida histórica de medalhas de 1896 a 2016
 12.  Animação da corrida histórica de medalhas de 1896 a 2016
+13.  Prevendo Vencedor de Medalha: Regressão Logística [Em construção]
+14.  Prevendo Vencedor de Medalha: Perceptron [Em construção]
